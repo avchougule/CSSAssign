@@ -1,0 +1,10 @@
+p{
+	font-family: arial;
+	color: red;
+	font-size: 15pt;
+	text-decoration: underline;
+	text-shadow: 2px 2px hotpink;
+}
+div{
+	border: 3px dotted red;
+}
